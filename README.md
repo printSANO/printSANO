@@ -8,5 +8,7 @@
 />
 </a>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=printSANO&theme=tokyonight&layout=compact&exclude_repo=FishyFish,docker-mastery-with-django,grid2demand,MachineLearningStatistics,MIA,PaddleOCR,dev-jeans"  height="180" />
+
 ![printSANO's GitHub stats](https://github-readme-stats.vercel.app/api?username=printSANO&count_private=true&show_icons=true&theme=radica)
 
